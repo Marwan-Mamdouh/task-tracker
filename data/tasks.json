@@ -1,0 +1,19 @@
+[ {
+  "taskId" : 1,
+  "description" : "learn new",
+  "status" : "TODO",
+  "createdAt" : [ 2025, 6, 3 ],
+  "updatedAt" : [ 2025, 6, 3 ]
+}, {
+  "taskId" : 2,
+  "description" : "learn new things",
+  "status" : "TODO",
+  "createdAt" : [ 2025, 6, 4 ],
+  "updatedAt" : null
+}, {
+  "taskId" : 3,
+  "description" : "learn spring shell and make small cli to fitch some joke",
+  "status" : "TODO",
+  "createdAt" : [ 2025, 6, 4 ],
+  "updatedAt" : null
+} ]

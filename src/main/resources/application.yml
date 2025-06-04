@@ -1,0 +1,25 @@
+spring:
+  main:
+    banner-mode: OFF
+  application:
+    name: task-tracker
+  shell:
+    interactive:
+      enabled: true
+
+# Application metadata (for version command, etc.)
+info:
+  app:
+    name: "Task Tracker CLI"
+    description: "A command line task management application"
+    version: "1.0"
+
+# Application configuration (this is what your @Value annotation reads)
+app:
+  data:
+    file:
+      path: "data/tasks.json"
+
+logging:
+  level:
+    root: off
