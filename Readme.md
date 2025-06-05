@@ -103,6 +103,9 @@ java -version
    ```
 
 ### Option 2: Build from source
+
+from our repository here: (GitHub)[https://github.com/Marwan-Mamdouh/task-tracker]
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/task-tracker.git
