@@ -1,6 +1,7 @@
 # Task Tracker CLI
 
 A simple command-line task management application built with Spring Boot and Spring Shell. This tool allows you to manage your tasks directly from the terminal with an interactive shell interface.
+I built it as a past from roadmap.sh projects here thier link: (roadMap.sh)[https://roadmap.sh/projects/task-tracker]
 
 ## Features
 
@@ -103,9 +104,6 @@ java -version
    ```
 
 ### Option 2: Build from source
-
-from our repository here: (GitHub)[https://github.com/Marwan-Mamdouh/task-tracker]
-
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/task-tracker.git
